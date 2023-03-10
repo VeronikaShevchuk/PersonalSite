@@ -204,7 +204,7 @@ body {
     background-blend-mode: multiply;
     background-image: url(./../img/7.jpg);
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
     background-position: center;
     color: var(--header-text);
     min-height: 695px;
