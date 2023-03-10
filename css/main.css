@@ -200,8 +200,9 @@ body {
 /* header */
 
 .header {
-    background-color: var(--darck-bg);
-    background-image: url(./../img/header-bg.png);
+    background-color: rgba(78, 76, 76, 0.858);
+    background-blend-mode: multiply;
+    background-image: url(./../img/7.jpg);
     background-repeat: no-repeat;
     background-size: auto;
     background-position: center;
@@ -421,6 +422,10 @@ body {
 
     .dark-mode-btn {
         order: 0;
+    }
+
+    .header {
+        background-image: url(./../img/6.jpg);
     }
 
     .section {
