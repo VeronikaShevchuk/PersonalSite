@@ -428,6 +428,10 @@ body {
 
     }
 
+    .content-list {
+        min-width: unset;
+    }
+
     .section2 {
         padding: 40px 0;
         height: 100vh;
