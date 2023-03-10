@@ -98,11 +98,14 @@ body {
 /* Nav */
 
 .nav {
+    position: fixed;
+    width: 100%;
     padding: 20px 0;
     border-bottom: 1px solid var(--darck-border);
     background-color: var(--darck-bg);
     color: var(--header-text);
     letter-spacing: normal;
+    z-index: 12;
 }
 
 .nav-row {
