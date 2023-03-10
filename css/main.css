@@ -405,17 +405,15 @@ body {
 
 @media(max-width:620px) {
     .header {
-
         min-height: unset;
     }
 
     .header__litle {
-
+        padding-top: 80px;
         font-size: 30px;
     }
 
     .header__litle strong {
-
         font-size: 40px;
     }
 
